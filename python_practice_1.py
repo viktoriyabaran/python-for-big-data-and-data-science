@@ -1,6 +1,6 @@
 
-def print_name():
-    print(f"Viktoriya Baran, CS-2024")
+def print_message():
+    print("Super practice message!")
 
 if __name__ == "__main__":
-    print_name()
+    print_message()
