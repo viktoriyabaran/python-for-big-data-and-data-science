@@ -1,6 +1,8 @@
 
 def print_message():
-    print("Super practice message!")
+    print(".⋆ 𖥔:･ﾟ✧: .☽˚｡･ﾟ✧･.･ﾟ✧: .*:･༄")
+    print("݁ ‧˖Super practice message!⋅‧₊˚")
+    print("˚⋅‧₊˚.𖥔 ݁ ‧˖✦ ‧₊˚⋅‧₊˚ :･ﾟ✧.𖥔:･ﾟ")
 
 if __name__ == "__main__":
     print_message()
